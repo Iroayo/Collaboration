@@ -7,6 +7,7 @@
     display: flex;
     justify-content: center;
     gap: 15px;
+    margin-top: 30px;
 }
 
 .list{
@@ -27,6 +28,7 @@
     margin-top: 25px;
     background-image: url(../assets_1/asset\ 5.jpeg);
     background-size: cover;
+    position: relative;
     height: 500px;
     padding: 20px;
     margin-bottom: 40px;
@@ -37,6 +39,7 @@
 }
 
 .banking2{
+    display: contents;
     padding-top: 25px;
     margin-left: 465px;
 }
@@ -51,10 +54,9 @@
 
 .enjoy{
     font-family: "Gotham", Open Sans, Helvetica, Arial;
-    font-size: 17px;
+    font-size: 16px;
     color: #3d4248 ;
     font-weight: 500;
-    font-size: 18px;
     margin: 0;
     width: 447px;
     height: 78.51px;
