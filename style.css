@@ -300,6 +300,7 @@ button:hover{
         display: none;
     }
     .header2{
+        display: block;
         background-image: url(./assets_1/asset\ 4.jpeg);
         margin-top: 100px;
     }
@@ -322,6 +323,8 @@ button:hover{
     .cash{
         display: flex;
         flex-direction: column;
+        width: 615px;
+        height: 250px;
     }
     .services{
         width: 615px;
