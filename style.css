@@ -186,7 +186,7 @@ h1{
     margin-left: 100px;
     width: 359px;
     height: 440px;
-    border: 1px solid #808080;
+    border: 2px solid rgb(226, 226, 226);
 }
 .man{
     padding: 15px;
@@ -196,7 +196,7 @@ h1{
 .foreign{
     width: 359px;
     height: 440px;
-    border: 1px solid #808080;
+    border: 2px solid rgb(226, 226, 226);
 }
 .age{
     padding: 15px;
@@ -206,7 +206,7 @@ h1{
 .corporate{
     width: 359px;
     height: 440px;
-    border: 1px solid #808080;
+    border: 2px solid rgb(226, 226, 226);
 }
 h2{
     padding: 5px;
@@ -257,8 +257,8 @@ button:hover{
 .services{
     display: flex;
     flex-direction: row-reverse;
-    border-top: 1px solid #808080;
-    border-bottom: 1px solid #808080;
+    border-top: 2px solid rgb(226, 226, 226);
+    border-bottom: 2px solid rgb(226, 226, 226);
     margin-right: -350px;
     margin-top: 30px;
     width: 1340px;
@@ -315,8 +315,6 @@ button:hover{
     }
     .top{
         display: none;
-    }
-    .top2{
     }
     .men{
         display: flex;
